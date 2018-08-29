@@ -16,9 +16,9 @@ public class NewTest {
 	  driver.findElement(By.xpath("//*[ @name='title'] ")).sendKeys("blogging");
       
      
-      title = driver.getTitle();
+     // title = driver.getTitle();
      
-      System.out.println("Title = "+title);
+     // System.out.println("Title = "+title);
   }
   @BeforeTest
   public void beforeTest() {
