@@ -17,7 +17,10 @@
     <version>6.10</version>
     <scope>test</scope>
 </dependency>
-			<plugins>
+			
+	</dependencies>
+	
+	<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
@@ -32,5 +35,4 @@
 			</plugin>
 	 	 </plugins>
 	
-	</dependencies>
 </project>
