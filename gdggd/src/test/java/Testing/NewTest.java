@@ -13,7 +13,7 @@ public class NewTest {
 	
   @Test
   public void f() {
-	  driver.findElement(By.xpath("//*[ @name='title'] ")).sendKeys("blogging");
+	 // driver.findElement(By.xpath("//*[ @name='title'] ")).sendKeys("blogging");
       
      
      // title = driver.getTitle();
